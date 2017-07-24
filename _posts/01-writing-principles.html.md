@@ -1,6 +1,6 @@
 ---
 title: Writing Goals and Principles
-layout: article
+layout: post
 ---
 
 With every piece of content we publish, we aim to:
