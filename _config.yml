@@ -6,10 +6,10 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Vendasta Styleguide
+tagline:          'Content styleguide'
+description:      'Content styleguide for the ever growing marketing team of Vendasta'
+url:              https://abissonnette-va.github.io/content-style-guide/
 baseurl:          /
 
 author:
