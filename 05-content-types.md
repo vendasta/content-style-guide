@@ -3,7 +3,7 @@ title: Content Types
 layout: page
 ---
 
-Content at MailChimp takes many forms. Here’s a rundown of the types of content we most often write, the functions they serve, and the teams that handle them.
+Content at Vendasta takes many forms. Here’s a rundown of the types of content we most often write, the functions they serve, and the teams that handle them.
 
 ## Short
 
@@ -30,10 +30,10 @@ Content at MailChimp takes many forms. Here’s a rundown of the types of conten
 
 ### Social media
 
-**What:** Posts on Twitter, Facebook, Instagram, and LinkedIn that highlight blog posts, events, notable MailChimp users, and more  
+**What:** Posts on Twitter, Facebook, Instagram, and LinkedIn that highlight blog posts, events, notable Vendasta users, and more  
 **Length:** 20-30 words  
 **Owner:** Marketing, support  
-**Example:** Wilco used MailChimp's automation tools to release their new album. Here's how: [http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/](http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/)<br>
+**Example:** Wilco used Vendasta's automation tools to release their new album. Here's how: [http://blog.Vendasta.com/how-wilco-used-Vendasta-automation-to-release-its-new-album/](http://blog.Vendasta.com/how-wilco-used-Vendasta-automation-to-release-its-new-album/)<br>
 **See also:** [Writing for social media](/11-writing-for-social-media.html.md)
 
 ### Success message
@@ -54,24 +54,24 @@ Content at MailChimp takes many forms. Here’s a rundown of the types of conten
 
 ### Integration directory description
 
-**What:** Easily scannable descriptions of web services that integrate with MailChimp  
+**What:** Easily scannable descriptions of web services that integrate with Vendasta  
 **Length:** 100-400 words  
 **Owner:** Integrations  
-**Example:** [Power BI](https://connect.mailchimp.com/integrations/power-bi) 
+**Example:** [Power BI](https://connect.Vendasta.com/integrations/power-bi) 
 
 ### Job listing
 
 **What:** Short description of company, role, and candidate qualifications  
 **Length:** 75-100 words  
 **Owner:** Recruiting  
-**Example:** [Budget Manager](http://mailchimp.com/about/jobs/KG8aMH/budget-manager)  
+**Example:** [Budget Manager](http://Vendasta.com/about/jobs/KG8aMH/budget-manager)  
 
 ### Marketing website copy
 
 **What:** Messaging that markets our features and products to users and potential users  
 **Length:** 10-1,000 words  
 **Owner:** Marketing  
-**Example:** Join more than 8 million people who use MailChimp to design and send 600 million emails every day.
+**Example:** Join more than 8 million people who use Vendasta to design and send 600 million emails every day.
 
 ### System alert
 
@@ -84,16 +84,16 @@ Content at MailChimp takes many forms. Here’s a rundown of the types of conten
 **What:** Short videos that provide users with step-by-step guidance  
 **Length:** 1-2 minutes  
 **Owner:** Knowledge Base  
-**Example:** [Video index](http://kb.mailchimp.com/video-index)  
+**Example:** [Video index](http://kb.Vendasta.com/video-index)  
 
 ## Long
 
 ### Blog post
 
-**What:** Informative articles about MailChimp users, features, and announcements  
+**What:** Informative articles about Vendasta users, features, and announcements  
 **Length:** 400-800 words  
 **Owner:** Marketing  
-**Example:** [How We Use Facebook Custom Audiences for Our Marketing](https://blog.mailchimp.com/how-we-use-facebook-custom-audiences-for-our-marketing/)<br>
+**Example:** [How We Use Facebook Custom Audiences for Our Marketing](https://blog.Vendasta.com/how-we-use-facebook-custom-audiences-for-our-marketing/)<br>
 **See also:** [Writing blog posts](/07-writing-blog-posts.html.md)
 
 ### Email newsletter
@@ -109,30 +109,30 @@ Content at MailChimp takes many forms. Here’s a rundown of the types of conten
 **What:** Easily digestible content that walks users through a process or problem  
 **Length:** 300-1,000 words  
 **Owner:** Knowledge Base  
-**Example:** [Getting Started with Lists](http://kb.mailchimp.com/lists/growth/getting-started-with-lists)<br>
+**Example:** [Getting Started with Lists](http://kb.Vendasta.com/lists/growth/getting-started-with-lists)<br>
 **See also:** [Writing technical content](/08-writing-technical-content.html.md)
 
 ### Legal content
 
-**What:** Policies that explain how we protect user privacy, how we handle accounts, and what users can and can’t do with MailChimp  
+**What:** Policies that explain how we protect user privacy, how we handle accounts, and what users can and can’t do with Vendasta  
 **Length:** 1,000-4,000 words  
 **Owner:** Legal  
-**Example:** [Legal: Terms of Use](http://mailchimp.com/legal/terms/)<br>
+**Example:** [Legal: Terms of Use](http://Vendasta.com/legal/terms/)<br>
 **See also:** [Writing legal content](/09-writing-legal-content.html.md)
 
 ### Marketing guide
 
-**What:** In-depth resources that show new and prospective users how to use MailChimp and grow their business
+**What:** In-depth resources that show new and prospective users how to use Vendasta and grow their business
 **Length:** 2,000-5,000 words  
 **Owner:** Marketing  
-**Example:** [Getting Started with MailChimp](http://mailchimp.com/resources/guides/getting-started-with-mailchimp/)  
+**Example:** [Getting Started with Vendasta](http://Vendasta.com/resources/guides/getting-started-with-Vendasta/)  
 
 ### Press release
 
-**What:** Quick, informative announcements that we send to [our media list](http://mailchimp.us6.list-manage.com/subscribe?u=4c5c956741&id=8f96c922d0) and post to [our Press Releases page](http://mailchimp.com/about/press-releases/).  
+**What:** Quick, informative announcements that we send to [our media list](http://Vendasta.us6.list-manage.com/subscribe?u=4c5c956741&id=8f96c922d0) and post to [our Press Releases page](http://Vendasta.com/about/press-releases/).  
 **Length:** 300-500 words  
 **Owner:** Marketing  
-**Example:** [MailChimp Hits Milestone 10 Billion Emails Per Month; Adding Headcount and Office Space](http://mailchimp.com/about/press-releases/2014-06-03/)  
+**Example:** [Vendasta Hits Milestone 10 Billion Emails Per Month; Adding Headcount and Office Space](http://Vendasta.com/about/press-releases/2014-06-03/)  
 
 
 
