@@ -1,6 +1,6 @@
 ---
 title: Writing Blog Posts
-layout: article
+layout: page
 ---
 
 MailChimp blog posts are written by people from all over the company, not just those with “writer” in their job titles. We love having experts from around the office blog about their work. The person most familiar with the subject is in the best position to convey it, and the writers on the marketing team can help with brainstorming and editing as needed.

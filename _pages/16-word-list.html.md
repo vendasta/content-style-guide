@@ -1,6 +1,6 @@
 ---
 title: Word List
-layout: article
+layout: page
 ---
 
 These words can be slippery. Here’s how we write them.

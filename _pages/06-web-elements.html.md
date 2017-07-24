@@ -1,6 +1,6 @@
 ---
 title: Web Elements
-layout: article
+layout: page
 ---
 
 Every piece of content we publish is supported by a number of smaller pieces. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.

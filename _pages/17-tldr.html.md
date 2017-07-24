@@ -1,6 +1,6 @@
 ---
 title: TL;DR
-layout: article
+layout: page
 ---
 
 The MailChimp Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.

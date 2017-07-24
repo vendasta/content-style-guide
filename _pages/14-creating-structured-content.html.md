@@ -1,6 +1,6 @@
 ---
 title: Creating Structured Content
-layout: article
+layout: page
 ---
 
 At MailChimp, we write 2 kinds of content: structured and unstructured. Most of our technical and educational documents are structured, following standardized content templates. These templates make both writing and reading easier. They also help future-proof our documents, making it easier for developers to come in later and add semantic data to make the work reusable outside of where it was originally published. 
