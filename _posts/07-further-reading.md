@@ -1,6 +1,6 @@
 ---
 title: Further Reading
-layout: article
+layout: post
 ---
 
 We love these style guides:

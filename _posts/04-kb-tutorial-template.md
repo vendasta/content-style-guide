@@ -1,6 +1,6 @@
 ---
 title: KB Tutorial Template
-layout: article
+layout: post
 ---
 
 ## Tutorial title

@@ -1,6 +1,6 @@
 ---
 title: Marketing Guide Template
-layout: article
+layout: post
 ---
 
 ## Title

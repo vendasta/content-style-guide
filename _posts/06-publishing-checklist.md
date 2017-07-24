@@ -1,6 +1,6 @@
 ---
 title: Publishing Checklist
-layout: article
+layout: post
 ---
 
 - Run spell check

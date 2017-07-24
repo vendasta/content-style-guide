@@ -1,6 +1,6 @@
 ---
 title: Template Elements
-layout: article
+layout: post
 ---
 
 ## Page title

@@ -1,6 +1,6 @@
 ---
 title: Copy Patterns
-layout: article
+layout: post
 ---
 
 ## Navigation

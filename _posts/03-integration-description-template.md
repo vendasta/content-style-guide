@@ -1,6 +1,6 @@
 ---
 title: Integration Description Template
-layout: article
+layout: post
 ---
 
 ## Integration title
