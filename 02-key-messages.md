@@ -1,5 +1,5 @@
 ---
 title: Key Messages
-noindex: true
+layout: page
 ---
 
