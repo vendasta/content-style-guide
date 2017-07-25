@@ -3,7 +3,7 @@ title: Writing Technical Content
 layout: page
 ---
 
-At Vendasta, technical content is mostly written by the technical content team. It appears in the [Knowledge Base](http://kb.Vendasta.com), throughout the app, and in a few other locations. This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
+At Vendasta, technical content is mostly written by R&D. It appears on [vendasta.com/documentation](http://vendasta.com/documentation), throughout the platform, and in a few other locations. This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
 
 ## Basics
 
