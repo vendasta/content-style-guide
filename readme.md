@@ -1,3 +1,5 @@
+## Welcome to Vendasta's Content Style Guide
+
 This style guide was created for Vendasta employees, but we hope it’s helpful for other content and communications teams too.
 
 ## If you work at Vendasta
