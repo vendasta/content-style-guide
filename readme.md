@@ -1,5 +1,5 @@
 ---
-title: Welcome to Vendasta's Content Style Guide
+title: Welcome to Vendasta's Style Guide
 layout: page
 ---
 
