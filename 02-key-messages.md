@@ -3,11 +3,11 @@ title: Key Messages
 layout: page
 ---
 
-This style guide was created for Vendasta employees, but we hope it’s helpful for other content and communications teams, too.
+Consistency and clarity are key when talking about Vendasta in any format. Please review the following key messages on a regular basis and make sure that all outward-facing material you're in charge of is kept up to date.
 
 ## Company Description
 
-Shot & long description.
+Short & long company description.
 
 ## Company Statistics
 
@@ -24,3 +24,6 @@ The most current company stats can be found in the [Vendasta KPIs](https://www.v
 ## Company Locations
 
 While corporate HQ is in Saskatoon, Vendastians span many cities. There are currently Vendastians working in Saskatoon, Vancouver, Toronto, Seattle, San Francisco, and San Diego.
+
+## How we talk about our solutions
+
