@@ -43,3 +43,5 @@ Related resource: The Vendasta [Voice and Tone guide](http://voiceandtone.com/).
 - Use the serial comma. Otherwise, use common sense.
 - Don’t use underline, and don’t use any combination of italic, bold, caps, and underline.
 - When in doubt, read your writing out loud.
+
+Style guide credit: [MailChimp Style Guide](http://styleguide.mailchimp.com/)
