@@ -3,7 +3,9 @@ title: Grammar and Mechanics
 layout: page
 ---
 
-Adhering to certain rules of grammar and mechanics helps us keep our writing clear and consistent. This section will lay out our house style, which applies to all of our content unless otherwise noted in this guide. (We cover a lot of ground in this section—the search feature will help if you're looking for something in particular.)
+Adhering to certain rules of grammar and mechanics helps us keep our writing clear and consistent. 
+
+This section will lay out our house style, which applies to all of our content unless otherwise noted in this guide. (We cover a lot of ground in this section—the search feature will help if you're looking for something in particular.)
 
 ## Basics
 
@@ -23,12 +25,12 @@ Adhering to certain rules of grammar and mechanics helps us keep our writing cle
 
 If there’s a chance your reader won’t recognize an abbreviation or acronym, spell it out the first time you mention it. Then use the short version for all other references. If the abbreviation isn’t clearly related to the full version, specify in parentheses.
 
-- First use: Network Operations Center
-- Second use: NOC
+- First use: single keyword adgroup (SKAG)
+- Second use: SKAG
 - First use: Coordinated Universal Time (UTC)
 - Second use: UTC
 
-If the abbreviation or acronym is well known, like API or HTML, use it instead (and don’t worry about spelling it out).
+If the abbreviation or acronym is well known, like SEO or HTML, use it instead (and don’t worry about spelling it out).
 
 ### Active voice
 
@@ -51,8 +53,8 @@ We use a few different forms of capitalization. Title case capitalizes the first
 
 When writing out an email address or website URL, use all lowercase.
 
-- freddie@Vendasta.com
-- Vendasta.com
+- freddie@vendasta.com
+- vendasta.com
 
 Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/16-word-list.html.md).
 
@@ -63,7 +65,7 @@ Don't capitalize random words in the middle of sentences. Here are some words th
 
 ### Contractions
 
-They’re great! They give your writing an informal, friendly tone. In most cases, use them as you see fit. Avoid them if you're writing content that will be [translated for an international audience](/13-writing-for-translation.html.md).
+They’re great! They give your writing an informal, friendly tone. In most cases, use them as you see fit.
 
 ### Emoji
 
@@ -71,12 +73,12 @@ Emoji are a fun way to add humor and visual interest to your writing, but use th
 
 ### Numbers
 
-Spell out a number when it begins a sentence. Otherwise, use the numeral. This includes ordinals, too.
+Spell out a number when it begins a sentence and when it is less than 100. Otherwise, use the numeral. This includes ordinals, too.
 
-- Ten new employees started on Monday, and 12 start next week.
-- I ate 3 donuts at Coffee Hour.
-- Meg won 1st place in last year’s Walktober contest.
-- We hosted a group of 8th graders who are learning to code.
+- Eight people started Vendasta, and now it employs over 300 people.
+- I ate three donuts at Coffee Hour.
+- Meg won first place in last year’s Walktober contest.
+- We hosted a group of eigth graders who are learning to code.
 
 (Sometimes it feels weird to use "1" instead of "one." Just go with your gut.) 
 
@@ -102,7 +104,7 @@ Spell out fractions.
 - Yes: two-thirds
 - No: 2/3
 
-Use decimal points when a number can’t be easily written out as a fraction, like 1.375 or 47.2.
+Use decimal points when a number can’t be easily written out as a fraction, like 1.375.
 
 #### Percentages
 
@@ -133,26 +135,18 @@ Use dashes without spaces between numbers. Use a country code if your reader is 
 - 555-867-5309
 - +1-404-123-4567
 
-#### Temperature
-
-Use the degree symbol and the capital F abbreviation for Fahrenheit.
-
-- 98°F
-
 #### Time
 
-Use numerals and am or pm, with a space in between. Don’t use minutes for on-the-hour time. 
+Use numerals and am or pm, without a space in between. Don’t use minutes for on-the-hour time. 
 
-- 7 am 
-- 7:30 pm
+- 7am 
+- 7:30pm
 
 Use a hyphen between times to indicate a time period. 
 
 - 7am-10:30pm
 
-Specify time zones when writing about an event or something else people would need to schedule. Since Vendasta is in Atlanta, we default to ET.
-
-Abbreviate time zones within the continental United States as follows:
+Specify time zones when writing about an event or something else people would need to schedule. Abbreviate time zones within the continental United States as follows:
 
 - Eastern time: ET
 - Central time: CT
@@ -179,7 +173,7 @@ The apostrophe’s most common use is making a word possessive. If the word alre
 
 - The donut thief ate Sam’s donut.
 - The donut thief ate Chris’s donut.
-- The donut thief ate the managers’ donuts.
+- The donut thief broke all of the donut shops’ windows.
 
 Apostrophes can also be used to denote that you’ve dropped some letters from a word, usually for humor or emphasis. This is fine, but do it sparingly.
 
@@ -188,10 +182,6 @@ Apostrophes can also be used to denote that you’ve dropped some letters from a
 Use a colon (rather than an ellipsis, em dash, or comma) to offset a list.
 
 - Erin ordered 3 kinds of donuts: glazed, chocolate, and pumpkin.
-
-You can also use a colon to join 2 related phrases. If a complete sentence follows the colon, capitalize the 1st word.
-
-- I was faced with a dilemma: I wanted a donut, but I’d just eaten a bagel.
 
 #### Commas
 
@@ -209,22 +199,16 @@ Use a hyphen (-) without spaces on either side to link words into single phrase,
 - first-time user
 - Monday-Friday
 
-Use an em dash (—) without spaces on either side to offset an aside.
-
-Use a true em dash, not hyphens (- or --).
+Use an em dash (—) without spaces on either side to offset an aside. Also, use a true em dash, not hyphens (- or --).
 
 - Multivariate testing—just one of our new Pro features—can help you grow your business.
 - Austin thought Brad was the donut thief, but he was wrong—it was Lain.
 
 #### Ellipses
 
-Ellipses (...) can be used to indicate that you’re trailing off before the end of a thought. Use them sparingly. Don’t use them for emphasis or drama, and don’t use them in titles or headers.
+Ellipses (...) can be used to indicate that you’re trailing off before the end of a thought. Use them sparingly in formal communications, but don’t be afraid to use them for emphasis or drama in places like social posts. Don’t use them in headers or titles.
 
 - “Where did all those donuts go?” Christy asked. Lain said, “I don't know...”
-
-Ellipses, in brackets, can also be used to show that you're omitting words in a quote.
-
-- “When in the Course of human events it becomes necessary for one people to dissolve the political bands which have connected them with another and to assume among the powers of the earth, [...] a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.”
 
 #### Periods
 
@@ -292,8 +276,6 @@ When referring to a specific file, the filename should be lowercase:
 
 If your subject’s gender is unknown or irrelevant, use “they,” “them,” and “their” as a singular pronoun. Use “he/him/his” and “she/her/her” pronouns as appropriate. Don’t use “one” as a pronoun.
 
-For more on writing about gender, see [Writing about people](/03-writing-about-people.html.md).
-
 #### Quotes
 
 When quoting someone in a blog post or other publication, use the present tense.
@@ -309,19 +291,12 @@ Capitalize the names of departments and teams (but not the word "team" or "depar
 - Marketing team
 - Support department
 
-Capitalize individual job titles when referencing to a specific role. Don't capitalize when referring to the role in general terms.
+Don't capitalize when referring to a specific role or a role in general terms.
 
-- Our new Marketing Manager starts today.
+- Our new marketing manager starts today.
 - All the managers ate donuts. 
 
 Don't refer to someone as a “ninja,” “rockstar,” or “wizard” unless they literally are one.
-
-#### Schools
-
-The first time you mention a school, college, or university in a piece of writing, refer to it by its full official name. On all other mentions, use its more common abbreviation.
-
-- Georgia Institute of Technology, Georgia Tech
-- Georgia State University, GSU
 
 #### States, cities, and countries
 
@@ -339,55 +314,30 @@ Avoid spelling out URLs, but when you need to, leave off the http://www.
 
 #### Writing about Vendasta
 
-Our company's legal entity name is "The Rocket Science Group, LLC." Our trade name is "Vendasta." Use "The Rocket Science Group, LLC" only when writing legal documents or contracts. Otherwise, use "Vendasta."
+Our company's legal entity name is "Vendasta Technologies, Inc." Our trade name is "Vendasta." Use "Vendasta Technologies, Inc." only when writing legal documents or contracts. Otherwise, use "Vendasta."
 
-Always capitalize the first “M” and the “C” in Vendasta.
+Never capitalize the “A” in Vendasta. We used to do it, but we don't anymore.
 
 Refer to Vendasta as “we,” not “it.”
 
-Capitalize the proper names of Vendasta products, features, pages, and tools. When referencing non-trademarked products like Pro, Snap, and Automation, include "Vendasta" in the name on first mention.
+Vendasta has many different types of partners, which can make it difficult to sum up in a few words. The catch-all term is resellers. Depending on the content you’re writing and who it targets, you may need to be more specific than that. Generally, agencies or digital agencies, traditional media companies, and B2B companies are fine.
 
-- Vendasta Pro
-- Vendasta Snap
-- Look What You Can Do
+Vendasta has partners.
+Vendasta's partners have clients.
+Local businesses have customers.
 
-#### Writing about other companies
+Capitalize the proper names of Vendasta products, features, pages, and tools. When referencing products in third-party places, such as a guest blog on another website, include "Vendasta" in the name on first mention.
 
-Honor companies’ own names for themselves and their products. Go by what’s used on their official website.
+- Business Center (in support materials)
+- Vendasta Business Center (in press releases, guest blogs, etc.)
 
-- iPad
-- YouTube
-- Yahoo!
+There are a few capitalization exceptions with certain products and events. Please use the following:
 
-Refer to a company or product as “it” (not “they”).
+- MasterKey, not Masterkey
+- VendastaCon, not Vendastacon or VCon
 
-### Slang and jargon
+Never use product abbreviations in outward-facing materials (e.g., VBC, RM, SM, etc.).
 
-Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
+Other internal terms, such as PID and AGID, should not be used externally, either in writing or when speaking to partners.
 
-- Vendasta's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
-
-### Text formatting
-
-Use italics to indicate the title of a long work (like a book, movie, or album) or to emphasize a word.
-
-- *Dunston Checks In*
-- Brandon *really* loves *Dunston Checks In*.
-
-Use italics when citing an example of an in-app Vendasta element, or referencing button and navigation labels in step-by-step instructions:
-
-- When you're all done, click *Send*.
-- The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once.
-
-Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
-
-Left-align text, never center or right-aligned.
-
-Leave one space between sentences, never 2.
-
-### Write positively
-
-Use positive language rather than negative language. One way to detect negative language is to look for words like “can’t,” “don’t,” etc.
-
-- Yes: To get a donut, stand in line.
-- No: You can’t get a donut if you don’t stand in line.
+Vendasta’s internal CRM is Sales and Success Center, not Vendasta Money Factory or VMF. We are currently trying to eliminate money factory terms.
