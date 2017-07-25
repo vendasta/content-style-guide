@@ -1,4 +1,7 @@
-## Welcome to Vendasta's Content Style Guide
+---
+title: Welcome to Vendasta's Content Style Guide
+layout: page
+---
 
 This style guide was created for Vendasta employees, but we hope it’s helpful for other content and communications teams, too.
 
