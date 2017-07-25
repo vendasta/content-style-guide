@@ -13,7 +13,7 @@ We update the main Vendasta blog a couple times every week. We generally publish
 
 * Feature, release, and integration announcements
 * Vendasta user case studies
-* Tips and tricks for small businesses
+* Tips and tricks for local businesses
 * Examples of how we use Vendasta’s features in our own marketing
 
 We publish blog posts that explain the “why” behind the work we do at Vendasta. We want to show people that we're an industry leader with the best products, and we use our blog to tell the stories behind those products.
@@ -38,7 +38,7 @@ Feel free to link away from Vendasta if it helps you explain something.
 Vendasta is a fun company, and we want our blog to reflect this. Feel free to throw in a joke here and there, or link out to a funny GIF or YouTube video when appropriate. Just don't overdo it.
 
 ### Use tags and keywords
-In WordPress, add keywords that apply to your article. Look through existing posts for common tags. If you’re not sure if a word should be a tag, it probably shouldn’t.
+In WordPress, use the Yoast plugin to optimize your post and make sure it has appropriate metadata.
 
 ### Use pictures
 Include images in your blog posts when it makes sense. If you’re explaining how to use Vendasta, include screenshots to illustrate your point. Make sure to use alt text.
