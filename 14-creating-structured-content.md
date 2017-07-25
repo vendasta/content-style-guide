@@ -3,7 +3,9 @@ title: Creating Structured Content
 layout: page
 ---
 
-At Vendasta, we write 2 kinds of content: structured and unstructured. Most of our technical and educational documents are structured, following standardized content templates. These templates make both writing and reading easier. They also help future-proof our documents, making it easier for developers to come in later and add semantic data to make the work reusable outside of where it was originally published. 
+At Vendasta, we write two kinds of content: structured and unstructured. 
+
+Most of our technical and educational documents are structured, following standardized content templates. These templates make both writing and reading easier. They also help future-proof our documents, making it easier for developers to come in later and add semantic data to make the work reusable outside of where it was originally published. 
 
 This section lays out when to use a structured content template and how to create a template of your own.
 
@@ -18,13 +20,9 @@ Consider using a template if:
 - Writers need to be able to create it quickly
 - You want to encourage repeat visits and familiarity with your content
 
-All educational content at Vendasta relies heavily on content templates. We use templates for Knowledge Base articles, Integration Directory descriptions, marketing guides, and more.
-
-Find all of our structured content templates in the [Resources section](/18-resources.html.md).
-
 ## Guidelines
 
-If you’re looking for a template for your structured content but can’t find one that meets your needs, you may want to create your own. There are 2 main ways to approach this.
+If you’re looking for a template for your structured content but can’t find one that meets your needs, you may want to create your own. There are two main ways to approach this.
 
 ### Use a model
 
@@ -49,4 +47,4 @@ You may prefer to write a draft first, then outline later based on how the parts
 
 Create your template by listing out the elements you identify in your outline or draft. Consider each element and what it contributes to the meaning of the piece. Is its purpose important enough that every content of this type should include it? If so, make it part of your template.
 
-Our [template elements](/resources/02-template-elements.html.md) glossary includes sections and items you may want to include. If you create a template you feel should be included in this guide’s resources section, contact a manager on the technical content team (for user or API documentation) or the marketing team (for any other kind of content).
+If you create a template you feel should be included in this guide’s resources section, contact a manager on the marketing team.
