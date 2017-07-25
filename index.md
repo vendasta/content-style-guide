@@ -1,6 +1,6 @@
 ---
 title: Welcome to Vendasta's Style Guide
-layout: page
+layout: default
 ---
 
 This style guide was created for Vendasta employees, but we hope it’s helpful for other content and communications teams, too.
