@@ -23,7 +23,7 @@ The most current company stats can be found in the [Vendasta KPIs](https://www.v
 
 ## Company Locations
 
-While corporate HQ is in Saskatoon, Vendastians span many cities. There are currently Vendastians working in Saskatoon, Vancouver, Toronto, Seattle, San Francisco, and San Diego.
+While corporate HQ is in Saskatoon, SK, Vendastians span many cities. There are currently Vendastians working in Saskatoon, Vancouver, Toronto, Seattle, San Francisco, and San Diego.
 
 ## How we talk about our solutions
 
