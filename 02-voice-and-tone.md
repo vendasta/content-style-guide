@@ -3,33 +3,31 @@ title: Voice and Tone
 layout: page
 ---
 
-One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to Vendasta. To learn more about how we adapt our tone for different situations, check out our [Voice and Tone guide](http://voiceandtone.com/).
+This section explains the difference between voice and tone and lays out the elements of each as they apply to Vendasta. To learn more about how to adapt our tone for different situations, check out this [Voice and Tone guide](http://voiceandtone.com/).
 
-What’s the difference between voice and tone? Think of it this way: You have the same voice all the time, but your tone changes. You might use one tone when you're out to dinner with your closest friends, and a different tone when you're in a meeting with your boss.
+What’s the difference between voice and tone? 
 
-Your tone also changes depending on the emotional state of the person you’re addressing. You wouldn’t want to use the same tone of voice with someone who’s scared or upset as you would with someone who’s laughing.
+Think of it this way: You have the same voice all the time, but your tone changes. You might use one tone when you're out to dinner with your closest friends, and a different tone when you're in a meeting.
 
 The same is true for Vendasta. Our voice doesn’t change much from day to day, but our tone changes all the time.
 
 ## Voice
 
-Vendasta’s voice is human. It’s familiar, friendly, and straightforward. Our priority is explaining our products and helping our users get their work done so they can get on with their lives. We want to educate people without patronizing or confusing them.
+Vendasta’s voice is human. It’s helpful, friendly, and straightforward. Our priority is explaining our solutions and helping our partners conquer their challenges so they can grow their businesses and their clients’ businesses.
 
 One way to think of our voice is to compare what it is to what it isn’t. Vendasta’s voice is:
 
 * Fun but not silly
 * Confident but not cocky
-* Smart but not stodgy
-* Informal but not sloppy
+* Ambitious but not aggressive
 * Helpful but not overbearing
 * Expert but not bossy
-* Weird but not inappropriate
 
 ## Tone
 
-Vendasta’s tone is usually informal, but it’s always more important to be clear than entertaining. When you’re writing, consider the reader’s state of mind. Are they relieved to be finished with a campaign? Are they confused and seeking our help on Twitter? Are they curious about a post on our blog? Once you have an idea of their emotional state, you can adjust your tone accordingly.
+Vendasta’s tone is usually informal, but it’s always more important to be clear than entertaining. When you’re writing, consider the reader’s state of mind. Are they relieved to be finished with a campaign? Are they confused and seeking our help? Are they curious about a post on our blog?
 
-Vendasta has a sense of humor, so feel free to be funny when it’s appropriate and when it comes naturally to you. But don’t go out of your way to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
+Vendasta has a sense of humor, so feel free to be funny when it’s appropriate and when it comes naturally. But don’t go out of your way to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
 
 ## Style tips
 
@@ -38,7 +36,3 @@ Here are a few key elements of writing Vendasta’s voice. For more, see the [Gr
 * [**Active voice**](/04-grammar-and-mechanics.html.md/#header-3-active-voice) Use active voice. Avoid passive voice.
 * [**Avoid slang and jargon**](/04-grammar-and-mechanics.html.md/#header-3-slang-and-jargon) Write in plain English.
 * [**Write positively**](/04-grammar-and-mechanics.html.md/#header-3-write-positively) Use positive language rather than negative language.
-
-## A note about Freddie
-
-Freddie is Vendasta's mascot. He’s been around in various forms since the company's beginning, and he captures the spirit of our brand’s personality. He smiles, winks, and sometimes high-fives, but he does not talk. Don't write in his voice. For more on how to use Freddie, see our [Brand Assets](http://Vendasta.com/about/brand-assets/).
