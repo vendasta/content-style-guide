@@ -1,9 +1,9 @@
 ---
-title: Writing Email Newsletters
+title: Writing Email Campaigns
 layout: page
 ---
 
-We send a lot of email ourselves, and we follow our own best practices to set an example for users. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
+We send a lot of email, and we follow our own best practices to set an example for partners. But as devices shrink and the inbox evolves, our oldest tip is still the most important: Only send when you have something to say.
 
 ## Basics
 
@@ -11,7 +11,7 @@ Our email newsletters help empower and inform Vendasta users. Here are the most 
 
 - Product and feature announcements
 - Tips for getting the most out of existing products and features
-- Regular monthly newsletters
+- Regular Product Insider
 - Automated series (Getting Started with Vendasta)
 - Event invitations and information about online courses
 - System alerts about changes to functionality or scheduled maintenance
@@ -25,17 +25,9 @@ Email newsletters generally follow the style points outlined in the [Voice and t
 
 Every email newsletter is made up of the following elements. Make sure they’re all in place before clicking send:
 
-#### From name
-
-This is usually the company or team’s name. It identifies the sender in the recipient's inbox.
-
 #### Subject line
 
-Keep your subject line descriptive. There's no perfect length, but some email clients display only the first words. Tell—don't sell—what's inside. Subject lines should be in title case. (Note that this is different from a headline, which you may want to include in the campaign itself.)
-
-#### Preheader text
-
-The top line of your campaign appears beside each subject line in the inbox. Provide the info readers need when they’re deciding if they should open.
+Keep your subject line descriptive. There's no perfect length, but some email clients display only the first words. Tell—don't sell—what's inside.
 
 #### Body copy
 
@@ -51,16 +43,13 @@ All campaigns follow [CAN-SPAM rules](http://kb.Vendasta.com/accounts/compliance
 
 ### Consider your perspective
 
-When sending an email newsletter from Vendasta, use the 3rd person “we.” When sending a newsletter as an individual, use the 1st person.
+When sending an email newsletter from Vendasta, use the third person “we.” When sending a newsletter as an individual, use the first person.
 
 ### Use a hierarchy
 Most readers will be scanning your emails or viewing them on a small screen. Put the most important information first.
 
 ### Include a call to action
 Make the reader's next step obvious, and close each campaign with a call to action. Link to a blog post, event registration, purchase page, or signup page. You can add a button or include a text link in the closing paragraph.
-
-### Avoid unnecessary links
-More than 50 percent of emails are read on a mobile device. Limit links to the most important resources to focus your call to action and prevent errant taps on smaller screens.
 
 ### Use alt text
 Some email clients disable images by default. Include an alt tag to describe the information in the image for people who aren’t able to see it.
@@ -71,4 +60,4 @@ It’s exciting to send to millions of users at once, but it’s doubtful that e
 Once you've selected an audience, adjust the language to fit their needs. For example, users who developed custom integrations are more likely to understand and appreciate direct, technical terms.
 
 ### Test your campaigns
-Use the preview mode to begin, and run an Inbox Inspection to see your newsletter in different email clients. Read your campaign out loud to yourself, then send a test to a coworker for a second look.
+Test your emails in different email clients. Read your campaign out loud to yourself, then send a test to a coworker for a second look.
