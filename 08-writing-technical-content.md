@@ -19,7 +19,7 @@ We don’t want to overload a reader with unnecessary information, choices to ma
 
 ## Types of technical content
 
-Technical content articles vary in target audience, goal, and tone. Vendasta technical content is built from 8 templates, which serve different purposes and readers.
+Technical content articles vary in target audience, goal, and tone. Vendasta technical content is built from eight templates, which serve different purposes and readers.
 
 | **Article Template** | **User Type**                  | **Goal**                                                                        |
 | -------------------- | ----------------------         | ------------------------------------------------------------------------------- |
@@ -95,16 +95,6 @@ We edit technical content based on three goals:
 
 Technical content uses organization, capitalization, and other formatting to help convey meaning. Although different articles are organized differently, some formatting tips are consistent throughout all technical content.
 
-#### Capitalization
-
-Capitalize proper names of Vendasta products, features, pages, tools, and team names when directly mentioned. In step-by-step instructions, capitalize and italicize navigation and button labels as they appear in the app.
-
-- Vendasta, Mandrill
-- Campaigns page, Lists page
-- Compliance Team, Billing Team
-- Navigate to the *Automation* page.
-- Click *Save & Close*.
-
 #### Headings
 
 Group article content with H2s and H3s. Use H2s to organize content by higher-level topics or goals, and use H3s within each section to separate supporting information or tasks.
@@ -120,8 +110,8 @@ Group article content with H2s and H3s. Use H2s to organize content by higher-le
 
 #### Ordered Lists
 
-Only use ordered lists for step-by-step instructions. Separate steps into logical chunks, with no more than 2 related actions per step. When additional explanation or a screenshot is necessary, use a line break inside the list item.
+Only use ordered lists for step-by-step instructions. Separate steps into logical chunks, with no more than two related actions per step. When additional explanation or a screenshot is necessary, use a line break inside the list item.
 
 #### Unordered Lists
 
-Use unordered lists to display examples, or multiple notes in a Notes block. If an unordered list comprises more than 10 items, use a table instead.
+Use unordered lists to display examples, or multiple notes in a Notes block. If an unordered list comprises more than ten items, use a table instead.
