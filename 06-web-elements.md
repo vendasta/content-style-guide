@@ -11,8 +11,6 @@ Every piece of content we publish is supported by a number of smaller pieces. Th
 
 Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.
 
-For more on how and why we use alt text, read the [Accessibility](/12-writing-for-accessibility.html.md) section.
-
 ### Buttons
 
 Buttons should always contain actions. The language should be clear and concise. Capitalize every word, including articles. It’s OK to use an ampersand in button copy.
@@ -34,13 +32,7 @@ Use title case for menu names and sentence case for menu items.
 
 ### Forms
 
-Form titles should clearly and quickly explain the purpose of the form.
-
-Use title case for form titles and sentence case for form fields.
-
-Keep forms as short as possible.
-
-Only request information that we need and intend to use. Don’t ask for information that could be considered private or personal, including gender. If you need to ask for gender, provide a field the user can fill in on their own, not a drop-down menu. 
+Forms are important for lead generation, and the design and fields within them are constantly being tested. Always check with the demand generation team which fields should be used on particular forms, since different amounts of fields will trigger different actions in our marketing automation system. 
 
 ### Headings and subheadings
 
@@ -77,19 +69,9 @@ Use lists to present steps, groups, or sets of information. Give context for the
 
 If one of the list items is a complete sentence, use proper punctuation and capitalization on all of the items. If list items are not complete sentences, don’t use punctuation, but do capitalize the first word of each item.
 
-### Navigation
-
-Use title case for main or global navigation. Use sentence case for subnavigation.
-
-Navigation links should be clear and concise.
-
-### Radio Buttons
-
-Use title case for headings and sentence case for button fields.
-
 ### Related articles
 
-Sometimes a long piece of copy lends itself to a list of related links at the end. Don’t go overboard—4 is usually plenty.
+Sometimes a long piece of copy lends itself to a list of related links at the end. Don’t go overboard—four is usually plenty.
 
 Related articles should appear in a logical order, following the step down/step up rule: The first article should be a step down in complexity from the current article. The second one should be a step up in complexity to a more advanced article.
 
