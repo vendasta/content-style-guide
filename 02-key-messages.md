@@ -13,7 +13,9 @@ We’ve divided the guide by topic based on the types of content we publish, so 
 
 ## Company Statistics
 
-2,400+ partners / logos
-13,000+ salespeople
-650,000+ local businesses
-Data on 24 million local businesses
+The most current statistics can be found in the Vendasta KPIs https://www.vendasta.com/kpi# 
+
+* 2,400+ partners / logos
+* 13,000+ salespeople
+* 650,000+ local businesses
+* Data on 24 million local businesses
