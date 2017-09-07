@@ -54,7 +54,7 @@ Avoid using abbreviations in outward-facing materials (e.g., VBC, RM, SM, etc.).
 
 Other internal terms, such as PID and AGID, should not be used externally, either in writing or when speaking to partners.
 
-Vendasta’s internal CRM is Sales & Success Center, not Vendasta Money Factory or VMF. We are currently trying to eliminate money factory terms.
+Vendasta’s internal CRM is Sales & Success Center, not Vendasta Money Factory or VMF. We are currently trying to eliminate money factory terms. Also, when referring to our sales and success teams, the entire division is referred to as Distribution. 
 
 
 
