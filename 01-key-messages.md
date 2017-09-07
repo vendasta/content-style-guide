@@ -24,7 +24,7 @@ Vendasta is the #1 platform for agencies selling digital solutions to local busi
 
 ## Company Locations
 
-Vendasta's corporate HQ is located in Saskatoon, SK, Canada. There are also Vendastians working in Vancouver, Toronto, Seattle, San Francisco, Portland, and San Diego.
+Vendasta's HQ is located in Saskatoon, SK, Canada. There are also Vendastians working in Vancouver, Toronto, Seattle, San Francisco, Portland, and San Diego.
 
 ## How we talk about our solutions
 
@@ -43,7 +43,7 @@ Capitalize the proper names of Vendasta products, features, pages, and tools. Wh
 * Business Center (in support materials)
 * Vendasta Business Center (in press release or guest blog)
 
-There are a few tricky scenarios and special grammar cases with certain things. Please use the following:
+There are a few tricky scenarios and special grammar cases with certain terms. Please use the following:
 
 * Master Key, not Masterkey or MasterKey
 * Snapshot Report, not Snapshot
