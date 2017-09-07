@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Vendasta Styleguide
-tagline:          'Content styleguide'
-description:      'Content styleguide for the ever growing marketing team of Vendasta'
+title:            Vendasta Style Guide
+tagline:          'Content style guide'
+description:      'Content style guide for the ever growing marketing team of Vendasta'
 url:              https://abissonnette-va.github.io/content-style-guide/
 baseurl:          /
 
