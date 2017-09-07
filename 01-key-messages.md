@@ -26,7 +26,7 @@ Vendasta is the #1 platform for agencies selling digital solutions to local busi
 
 Vendasta's HQ is located in Saskatoon, SK, Canada. There are also Vendastians working in Vancouver, Toronto, Seattle, San Francisco, Portland, and San Diego.
 
-## How we talk about our solutions
+## How we talk about ourselves
 
 Our company's legal entity name is "Vendasta Technologies, Inc." Our trade name is "Vendasta." Use "Vendasta Technologies, Inc." only when writing legal documents or contracts. Otherwise, use "Vendasta."
 
@@ -54,7 +54,7 @@ Avoid using abbreviations in outward-facing materials (e.g., VBC, RM, SM, etc.).
 
 Other internal terms, such as PID and AGID, should not be used externally, either in writing or when speaking to partners.
 
-Vendasta’s internal CRM is Sales & Success Center, not Vendasta Money Factory or VMF. We are currently trying to eliminate money factory terms. Also, when referring to our sales and success teams, the entire division is referred to as Distribution. 
+Vendasta’s internal CRM is Sales & Success Center, not Vendasta Money Factory or VMF. We are currently trying to eliminate money factory terms. Also, when referring to our sales and success teams, the entire division is called Distribution. 
 
 
 
