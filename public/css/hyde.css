@@ -249,3 +249,10 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+iframe {max-width: 100%;}
+
+@media (max-width: 480px;)
+{
+  iframe {max-height: 250px;}
+}
