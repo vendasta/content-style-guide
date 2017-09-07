@@ -32,7 +32,7 @@ Vendasta has five key audiences for which we've developed specific messaging, in
 
 When talking about Vendasta to any of these audiences, please use the corresponding key messages from this slide deck: https://goo.gl/1gqvGE
 
-<iframe src="https://docs.google.com/a/vendasta.com/presentation/d/e/2PACX-1vSyND_kRjg5VnNj2QWF8qxzHu0tiqGyd1QfLu-Ffow12tylVsnAfGIVzFt_xnFgiBxfU0mU-BOvSual/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/a/vendasta.com/presentation/d/e/2PACX-1vSyND_kRjg5VnNj2QWF8qxzHu0tiqGyd1QfLu-Ffow12tylVsnAfGIVzFt_xnFgiBxfU0mU-BOvSual/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="297" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## How we talk about ourselves
