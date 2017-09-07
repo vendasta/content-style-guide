@@ -5,7 +5,7 @@ layout: page
 
 Vendasta blog posts are written by people from all over the company, not just those with “writer” in their job titles. We love having experts from around the office blog about their work. The person most familiar with the subject is in the best position to convey it, and the writers on the marketing team can help with brainstorming and editing as needed.
 
-We have several Vendasta blogs, including ones written by our [design](http://creative.Vendasta.com), [engineering](http://devs.Vendasta.com/blog/), and [technical content](http://docmakers.Vendasta.com) teams. This section will focus on the main [Vendasta marketing blog](http://blog.Vendasta.com), but the guidelines apply to the other channels, too.
+We have several Vendasta blogs, including ones written by our [design](http://creative.Vendasta.com), [engineering](http://devs.Vendasta.com/blog/), and [technical content](http://docmakers.Vendasta.com) teams. This section will focus on the main [Vendasta marketing blog](http://vendasta.com/blog), but the guidelines apply to the other channels, too.
 
 ## Basics
 
