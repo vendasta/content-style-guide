@@ -26,7 +26,7 @@ Vendasta is the #1 platform for agencies selling digital solutions to local busi
 
 Vendasta's HQ is located in Saskatoon, SK, Canada. There are also Vendastians working in Vancouver, Toronto, Seattle, San Francisco, Portland, and San Diego.
 
-## Key Audience Messaging
+## Key Messages Per Audience
 
 Vendasta has five key audiences for which we've developed specific messaging, including: partners/potential partners, vendors, local businesses, Vendasta employees, and venture capitalists (VCs). 
 
