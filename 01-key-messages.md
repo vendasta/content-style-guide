@@ -26,6 +26,13 @@ Vendasta is the #1 platform for agencies selling digital solutions to local busi
 
 Vendasta's HQ is located in Saskatoon, SK, Canada. There are also Vendastians working in Vancouver, Toronto, Seattle, San Francisco, Portland, and San Diego.
 
+## Key Audience Messaging
+
+Vendasta has five key audiences for which we've developed specific messaging, including: partners/potential partners, vendors, local businesses, Vendasta employees, and venture capitalists (VCs). 
+
+When talking about Vendasta to any of these audiences, please use the corresponding key messages from this slide deck: https://goo.gl/1gqvGE
+
+
 ## How we talk about ourselves
 
 Our company's legal entity name is "Vendasta Technologies, Inc." Our trade name is "Vendasta." Use "Vendasta Technologies, Inc." only when writing legal documents or contracts. Otherwise, use "Vendasta."
