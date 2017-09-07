@@ -49,7 +49,7 @@ There are a few tricky scenarios and special grammar cases with certain terms. P
 * Snapshot Report, not Snapshot
 * VendastaCon, not Vendastacon or VCon
 
-Never use product abbreviations in outward-facing materials (e.g., VBC, RM, SM, etc.).
+Avoid using abbreviations in outward-facing materials (e.g., VBC, RM, SM, etc.).
 
 Other internal terms, such as PID and AGID, should not be used externally, either in writing or when speaking to partners.
 
