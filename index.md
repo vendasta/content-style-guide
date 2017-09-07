@@ -9,7 +9,7 @@ This style guide was created for Vendasta employees. It is intended for referenc
 
 This guide is here to help us write consistent content across teams and channels.
 
-We’ve divided it by topic based on the types of content we publish, so you can reference it as needed or browse in order. The entire guide is searchable, so you can go straight to the item you’re looking for.
+We’ve divided it by topic based on the types of content we publish, so you can reference it as needed or browse in order.
 
 ## If you work at another organization
 
