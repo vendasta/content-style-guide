@@ -45,9 +45,10 @@ Capitalize the proper names of Vendasta products, features, pages, and tools. Wh
 
 There are a few tricky scenarios and special grammar cases with certain terms. Please use the following:
 
-* Master Key, not Masterkey or MasterKey
 * Snapshot Report, not Snapshot
 * VendastaCon, not Vendastacon or VCon
+* Sales & Success Center, not Sales and Success Center
+* Master Key, not Masterkey or MasterKey
 
 Avoid using abbreviations in outward-facing materials (e.g., VBC, RM, SM, etc.).
 
