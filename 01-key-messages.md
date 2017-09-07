@@ -24,7 +24,7 @@ Vendasta is the #1 platform for agencies selling digital solutions to local busi
 
 ## Company Locations
 
-Vendasta's corporate HQ is located in Saskatoon, SK, Canada. There are also Vendasta employees working in Vancouver, Toronto, Seattle, San Francisco, Portland, and San Diego.
+Vendasta's corporate HQ is located in Saskatoon, SK, Canada. There are also Vendastians working in Vancouver, Toronto, Seattle, San Francisco, Portland, and San Diego.
 
 ## How we talk about our solutions
 
@@ -32,11 +32,11 @@ Our company's legal entity name is "Vendasta Technologies, Inc." Our trade name 
 
 Refer to Vendasta as “we”, not “it.” 
 
-Vendasta has partners.
-Vendasta’s partners have clients.
-Local businesses have customers.
+* Vendasta has partners.
+* Vendasta’s partners have clients.
+* Local businesses have customers.
 
-Vendasta has many different types of partners, which can make it difficult to sum up in a few words. The catch-all term is resellers. Depending on the content you’re writing and who it targets, you may need to be more specific than that. Generally, agencies or digital agencies, traditional media companies, and B2B companies are fine. 
+Vendasta has many different types of partners, which can make it difficult to sum up in a few words. The catch-all term is resellers. Depending on the content you’re writing, you may need to be more specific than that. Generally, agencies or digital agencies, traditional media companies, and B2B companies are fine. 
 
 Capitalize the proper names of Vendasta products, features, pages, and tools. When referencing products in third-party places, such as a guest blog on another website, include "Vendasta" in the name on first mention.
 
