@@ -3,7 +3,7 @@ title: Welcome to Vendasta's Style Guide
 layout: default
 ---
 
-This style guide was created for Vendasta employees. It is intended for reference (we don't expect you to read it front to back), which why the left nav is so extensive—to aid in making things findable.
+This style guide was created for Vendasta employees. It is intended for reference, and we don't expect you to have it memorized. That's why the left nav is so extensive—to aid in making things findable.
 
 ## If you work at Vendasta
 
