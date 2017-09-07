@@ -7,9 +7,9 @@ This style guide was created for Vendasta employees. It is mostly intended for r
 
 ## If you work at Vendasta
 
-This is our company style guide. It helps us write clear and consistent content across teams and channels.
+This guide is here to help us write clear and consistent content across teams and channels.
 
-We’ve divided the guide by topic based on the types of content we publish, so you can reference it as needed or browse in order. The entire guide is searchable, so you can go straight to the item you’re looking for.
+We’ve divided it by topic based on the types of content we publish, so you can reference it as needed or browse in order. The entire guide is searchable, so you can go straight to the item you’re looking for.
 
 ## If you work at another organization
 
