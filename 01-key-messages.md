@@ -24,7 +24,7 @@ Vendasta is the #1 platform for agencies selling digital solutions to local busi
 
 ## Company Locations
 
-Vendasta's HQ is located in Saskatoon, SK, Canada. There are also Vendastians working in Vancouver, Toronto, Seattle, San Francisco, Portland, and San Diego.
+Vendasta's HQ is located in Saskatoon, SK, Canada. There are also Vendastians working in Vancouver, Toronto, Seattle, Portland, Atlanta, San Diego, and Austin.
 
 ## Key Messages Per Audience
 
