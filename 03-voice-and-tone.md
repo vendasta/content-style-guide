@@ -26,7 +26,3 @@ One way to think of our voice is to compare what it is to what it isn’t. Venda
 Vendasta’s tone is usually informal, but it’s always more important to be clear than entertaining. When you’re writing, consider the reader’s state of mind. Are they relieved to be finished with a campaign? Are they confused and seeking our help? Are they curious about a post on our blog?
 
 Vendasta has a sense of humor, so feel free to be funny when it’s appropriate and when it comes naturally. But don’t go out of your way to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
-
-## Style tips
-
-Here are a few key elements of writing Vendasta’s voice. For more, see the [Grammar and mechanics section](content-style-guide/04-grammar-and-mechanics).
