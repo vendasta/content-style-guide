@@ -14,7 +14,7 @@ The most current company stats can be found in the [Vendasta KPIs](https://www.v
 * 2,400+ partners / logos
 * 13,000+ salespeople
 * 650,000+ local businesses
-* 300+ employees
+* 250+ employees
 * Data on 24 million local businesses
 * We serve 13 of the 15 largest newspaper organizations in North America
 
