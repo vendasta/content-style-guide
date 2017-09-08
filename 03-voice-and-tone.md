@@ -29,8 +29,4 @@ Vendasta has a sense of humor, so feel free to be funny when it’s appropriate 
 
 ## Style tips
 
-Here are a few key elements of writing Vendasta’s voice. For more, see the [Grammar and mechanics section](content-style-guide//04-grammar-and-mechanics).
-
-* [**Active voice**](/content-style-guide/04-grammar-and-mechanics/#header-3-active-voice) Use active voice. Avoid passive voice.
-* [**Avoid slang and jargon**](/content-style-guide/04-grammar-and-mechanics/#header-3-slang-and-jargon) Write in plain English.
-* [**Write positively**](/content-style-guide/04-grammar-and-mechanics/#header-3-write-positively) Use positive language rather than negative language.
+Here are a few key elements of writing Vendasta’s voice. For more, see the [Grammar and mechanics section](content-style-guide/04-grammar-and-mechanics).
