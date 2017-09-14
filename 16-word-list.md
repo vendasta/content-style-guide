@@ -53,9 +53,9 @@ The phrase "white label" is one of the trickiest terms to grasp for a lot of peo
 ## Words to avoid
 
 - automagical (we used to say this a lot, and we’re embarrassed about it)
-- funnel, incentivize, leverage, disruption, thought leader, or other fluffy corporate terms
+- synergy, incentivize, or other fluffy corporate terms
 - internets, interwebs, or any other variation of the word “internet”
 - ninja, rockstar, wizard, unicorn (unless referring to a literal ninja, rockstar, wizard, or unicorn)
 - young, old, elderly, or any other word describing a person's age
--  crushing it, killing it
--  crazy, insane, or similar words to describe people
+- crushing it, killing it
+- crazy, insane, or similar words to describe people
