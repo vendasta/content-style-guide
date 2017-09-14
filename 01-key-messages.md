@@ -18,7 +18,7 @@ The most current company stats can be found in the [Vendasta KPIs](https://www.v
 * Data on 24 million local businesses
 * We serve 13 of the 15 largest newspaper organizations in North America
 
-The preferred way of phrasing these stats is: "There are over 1,100 resellers selling to 670,000 local businesses with Vendasta's platform."
+The preferred way of phrasing our reseller and local business stats is: "There are over 1,100 resellers selling to 670,000 local businesses with Vendasta's platform."
 
 ## Boilerplate
 
@@ -48,6 +48,8 @@ Refer to Vendasta as “we”, not “it.”
 * Local businesses have customers.
 
 Vendasta has many different types of partners, which can make it difficult to sum up in a few words. The catch-all term is resellers. Depending on the content you’re writing, you may need to be more specific than that. Generally, agencies or digital agencies, traditional media companies, and B2B companies are fine. 
+
+Our partners' clients are local businesses, not small businesses or SMBs. We used to use the term SMBs a lot, but it doesn't quite cover all of the business owners using our products and services. Futhermore, the initialism can be confusing to people who don't know what it stands for. In general, try to use the term local businesses whenever possible.
 
 Capitalize the proper names of Vendasta products, features, pages, and tools. When referencing products in third-party places, such as a guest blog on another website, include "Vendasta" in the name on first mention.
 
