@@ -36,6 +36,9 @@ When talking about Vendasta to any of these audiences, please use the correspond
 
 <iframe src="https://docs.google.com/a/vendasta.com/presentation/d/e/2PACX-1vSyND_kRjg5VnNj2QWF8qxzHu0tiqGyd1QfLu-Ffow12tylVsnAfGIVzFt_xnFgiBxfU0mU-BOvSual/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+## Asset Kits
+
+Vendasta Asset Kits are top-level resources for anyone in the company to find info, messaging, presentations, and resources for any of the products we make. They can be found on the intranet [here](https://sites.google.com/vendasta.com/intranet2/platform-products/asset-kits?authuser=0)
 
 ## How we talk about ourselves
 
