@@ -11,16 +11,18 @@ Having consistent numbers about the size of our company is crucial for both lega
 
 The most current company stats can be found in the [Vendasta KPIs](https://www.vendasta.com/kpi#), although the following numbers are the ones that are currently approved for external communications:
 
-* 2,400+ partners / logos
-* 13,000+ salespeople
-* 650,000+ local businesses
+* 1,100+ resellers / partners
+* 13,000+ salespeople on the Vendasta platform
+* 670,000+ local businesses
 * 250+ employees
 * Data on 24 million local businesses
 * We serve 13 of the 15 largest newspaper organizations in North America
 
+The preferred way of phrasing these stats is: "There are over 1,100 resellers selling to 670,000 local businesses with Vendasta's platform."
+
 ## Boilerplate
 
-Vendasta is the #1 platform for agencies selling digital solutions to local businesses. Over 2,400 partners with a combined salesforce of 8,500 strong use Vendasta to market to millions of local businesses around the world. Vendasta has been named one of the 50 fastest-growing technology companies in Canada and one of the top 500 fastest growing in North America by Deloitte for the past two years in a row. Listed on the Canadian Business Magazine’s Profit 500 and winner of numerous local business awards—including Business of the Year for 2016—Vendasta employs a growing team of 240 across Canada and the United States. For more information, visit www.vendasta.com.
+Vendasta is the #1 platform for agencies selling digital solutions to local businesses. By offering a marketplace of rebrandable products and services and an automated marketing system, agencies are empowered to acquire, retain, and grow their client base. Over 1,100 resellers use the Vendasta platform to sell to 670,000 local businesses around the world. Vendasta has been named one of the 50 fastest growing technology companies in Canada and one of the top 500 fastest growing in North America by Deloitte the past two years in a row. Vendasta has also been listed on the Canadian Business Magazine’s Profit 500 for the second year running. For more information, visit https://www.vendasta.com.
 
 ## Company Locations
 
@@ -64,8 +66,3 @@ Avoid using abbreviations in outward-facing materials (e.g., VBC, RM, SM, etc.).
 Other internal terms, such as PID and AGID, should not be used externally, either in writing or when speaking to partners.
 
 Vendasta’s internal CRM is Sales & Success Center, not Vendasta Money Factory or VMF. We are currently trying to eliminate money factory terms. Also, when referring to our sales and success teams, the entire division is called Distribution. 
-
-
-
-
-
