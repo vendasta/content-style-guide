@@ -75,8 +75,8 @@ Emoji are a fun way to add humor and visual interest to your writing, but use th
 
 Spell out a number when it begins a sentence and when it is less than 100. Otherwise, use the numeral. This includes ordinals, too.
 
-- Eight people started Vendasta, and now it employs over 300 people.
-- I ate three donuts at Coffee Hour.
+- Eight cofounders started Vendasta, and now we employ over 300 people.
+- I ate three donuts at Tim Hortons.
 - Meg won first place in last year’s Walktober contest.
 - We hosted a group of eigth graders who are learning to code.
 
