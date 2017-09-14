@@ -41,6 +41,14 @@ These words can be slippery. Here’s how we write them.
 - website
 - WiFi
 
+## A Word on "White Label"
+
+The phrase "white label" is one of the trickiest terms to grasp for a lot of people. As a noun, it is two separate words. As an adjective modifying a noun, it is hyphenated. It is never written as one word without a hyphen.
+
+- OK: We support white labeling for vendor products.
+- OK: Vendors, like us, have found success in selling white-label products.
+- NOT OK: Vendasta offers a whitelabel platform.
+
 ## Words to avoid
 
 - automagical (we used to say this a lot, and we’re embarrassed about it)
