@@ -312,32 +312,11 @@ Capitalize the names of websites and web publications. Don’t italicize.
 
 Avoid spelling out URLs, but when you need to, leave off the http://www.
 
-#### Writing about Vendasta
+## White Label
 
-Our company's legal entity name is "Vendasta Technologies, Inc." Our trade name is "Vendasta." Use "Vendasta Technologies, Inc." only when writing legal documents or contracts. Otherwise, use "Vendasta."
+The phrase "white label" is one of the trickiest terms to grasp for a lot of people. As a noun, it is two separate words. As an adjective modifying a noun, it is hyphenated. It is never written as one word without a hyphen.
 
-Never capitalize the “A” in Vendasta. We used to do it, but we don't anymore.
-
-Refer to Vendasta as “we,” not “it.”
-
-Vendasta has many different types of partners, which can make it difficult to sum up in a few words. The catch-all term is resellers. Depending on the content you’re writing and who it targets, you may need to be more specific than that. Generally, agencies or digital agencies, traditional media companies, and B2B companies are fine.
-
-Vendasta has partners.
-Vendasta's partners have clients.
-Local businesses have customers.
-
-Capitalize the proper names of Vendasta products, features, pages, and tools. When referencing products in third-party places, such as a guest blog on another website, include "Vendasta" in the name on first mention.
-
-- Business Center (in support materials)
-- Vendasta Business Center (in press releases, guest blogs, etc.)
-
-There are a few capitalization exceptions with certain products and events. Please use the following:
-
-- MasterKey, not Masterkey
-- VendastaCon, not Vendastacon or VCon
-
-Never use product abbreviations in outward-facing materials (e.g., VBC, RM, SM, etc.).
-
-Other internal terms, such as PID and AGID, should not be used externally, either in writing or when speaking to partners.
-
-Vendasta’s internal CRM is Sales and Success Center, not Vendasta Money Factory or VMF. We are currently trying to eliminate money factory terms.
+- CORRECT: We support white labeling for vendor products.
+- CORRECT: Vendasta offers a white-label platform.
+- NOT CORRECT: Vendasta offers a whitelabel platform.
+- NOT CORRECT: Vendasta offers a white label platform.
