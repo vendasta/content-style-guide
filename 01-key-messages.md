@@ -16,7 +16,6 @@ The most current company stats can be found in the [Vendasta KPIs](https://www.v
 * 670,000+ local businesses in Vendasta's system
 * 250+ employees
 * Data on 24 million local businesses
-* We serve 13 of the 15 largest newspaper organizations in North America
 
 The preferred way of phrasing our reseller and local business stats is: "There are over 1,100 resellers selling to 670,000 local businesses with Vendasta's platform."
 
