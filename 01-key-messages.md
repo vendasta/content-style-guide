@@ -21,7 +21,7 @@ The preferred way of phrasing our reseller and local business stats is: "There a
 
 ## Boilerplate
 
-Vendasta is the #1 platform for agencies selling digital solutions to local businesses. By offering a marketplace of resellable products and services and an automated marketing platform, agencies are empowered to acquire, retain, and grow their client base. Over 1,100 resellers use the Vendasta platform to sell to 670,000 local businesses around the world. Vendasta has been named one of the fifty fastest growing technology companies in Canada and one of the top 500 fastest growing in North America by Deloitte the past two years in a row. For more information, visit https://www.vendasta.com.
+Vendasta is the #1 platform for agencies selling digital solutions to local businesses. By offering a marketplace of resellable products and services and an automated marketing platform, agencies are empowered to acquire, retain, and grow their client base. Over 1,200 resellers use the Vendasta platform to sell to 780,000 local businesses around the world. Vendasta has been named one of the fifty fastest growing technology companies in Canada and one of the top 500 fastest growing in North America by Deloitte the past two years in a row. For more information, visit https://www.vendasta.com.
 
 ## Company Locations
 
