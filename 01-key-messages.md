@@ -12,12 +12,12 @@ Having consistent numbers about the size of our company is crucial for both lega
 The most current company stats can be found in the [Vendasta KPIs](https://www.vendasta.com/kpi#), although the following numbers are the ones that are currently approved for external communications:
 
 * 1,200+ resellers / partners
-* 16,000+ salespeople on the Vendasta platform
-* 780,000+ local businesses in Vendasta's system
-* 250+ employees
+* 19,000+ salespeople on the Vendasta platform
+* 1,000,000+ local businesses in Vendasta's system
+* 280+ employees
 * Data on 24 million local businesses
 
-The preferred way of phrasing our reseller and local business stats is: "There are over 1,200 resellers selling to 780,000 local businesses with Vendasta's platform."
+The preferred way of phrasing our reseller and local business stats is: "There are over 1,200 resellers selling to 1,000,000 local businesses with Vendasta's platform."
 
 ## Boilerplate
 
