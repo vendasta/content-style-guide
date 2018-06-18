@@ -50,6 +50,10 @@ The phrase "white label" is one of the trickiest terms to grasp for a lot of Ven
 - NOT CORRECT: Vendasta offers a whitelabel platform.
 - NOT CORRECT: Vendasta offers a white label platform.
 
+Now you're probably wondering...even though "white-label" is grammatically correct, what if more people search for "white label"? How does this conversation relate to search engine optimization? 
+
+Don't worry. Our in-house SEO specialist, Jubaer, dove deep into this topic and discovered that it doesn't make a difference. According to Nick Eubanks, Matthew Barby, and Ian Howells—three of the biggest names in SEO—Google is smart enough to match these terms as synonyms. The only thing that would change is the intent based on context, but that has no relation to whether it's hyphenated or not. So relax and go with the grammatically correct version.
+
 ## Words to avoid
 
 - automagical (we used to say this a lot, and we’re embarrassed about it)
