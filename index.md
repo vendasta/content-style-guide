@@ -13,6 +13,6 @@ We’ve divided it by topic based on the types of content we publish, so you can
 
 ## If you work at another organization
 
-We invite you to use this guide when writing content for Vendasta, whether it’s a guest post on our blog, a third-party case study, or something else. If you need clarification about anything, please contact dhennig@vendasta.com. 
+We invite you to use this guide when writing content for Vendasta, whether it’s a guest post on our blog, a third-party case study, or something else. If you need clarification about anything, please contact marketing@vendasta.com. 
 
 We welcome any feedback for improving the guide. It's a living document, and it changes over time. When it changes, we generally don't change previously published documentation to match. We strive for consistency, but at any given time there are certain to be pieces of content that don't match this style guide. When in doubt, follow this guide rather than imitating existing documents.

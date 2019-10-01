@@ -73,12 +73,12 @@ Emoji are a fun way to add humor and visual interest to your writing, but use th
 
 ### Numbers
 
-Spell out a number when it begins a sentence and when it is less than 100. Otherwise, use the numeral. This includes ordinals, too.
+Spell out a number when it begins a sentence and when it is less than 10. Otherwise, use the numeral. This includes ordinals, too.
 
-- Eight cofounders started Vendasta, and now we employ over 300 people.
+- Eight cofounders started Vendasta, and now we employ more than 300 people.
 - I ate three donuts at Tim Hortons.
 - Meg won first place in last year’s Walktober contest.
-- We hosted a group of eigth graders who are learning to code.
+- We hosted a group of eighth graders who are learning to code.
 
 (Sometimes it feels weird to use "one" instead of "1." Just go with your gut.) 
 
@@ -88,7 +88,15 @@ Numbers over 3 digits get commas:
 - 1,000
 - 150,000
 
-Write out big numbers in full. Abbreviate them if there are space restraints, as in a tweet or a chart: 1k, 150k.
+Anything in the millions and beyond is partially written for readability. Apply the same rules with numerics under 10 that precedes the “million” or “billion”. The only exceptions are dollar figures or decimals, where written amounts is preferred. Like so:
+
+Nine million, but:
+10 million
+10.2 million
+$5 million
+
+Abbreviate them if there are space restraints, as in a tweet or a chart: 1k, 150k.
+
 
 #### Dates
 
@@ -96,6 +104,9 @@ Generally, spell out the day of the week and the month. Abbreviate only if space
 
 - Saturday, January 24
 - Sat., Jan. 24
+- January, 2022
+- Fall, 2050
+
 
 #### Decimals and fractions
 
@@ -108,7 +119,9 @@ Use decimal points when a number can’t be easily written out as a fraction, li
 
 #### Percentages
 
-Use the % symbol instead of spelling out "percent."
+In titles and subtitles: Use the % symbol.
+In body text: Use percent (no space).
+
 
 #### Ranges and spans
 
@@ -122,6 +135,11 @@ When writing about US currency, use the dollar sign before the amount. Include a
 
 - $20
 - $19.99
+
+For other countries who use dollars (like Canada), apply the currency code after the dollar amount.
+
+- $20 CAD
+- $19.99 AUD
 
 When writing about other currencies, follow the same symbol-amount format:
 
@@ -146,24 +164,22 @@ Use a hyphen between times to indicate a time period. 
 
 - 7am-10:30pm
 
-Specify time zones when writing about an event or something else people would need to schedule. Abbreviate time zones within the continental United States as follows:
+Specify time zones when writing about an event or something else people would need to schedule, and be sure to include whether it’s daylight time or standard time. Abbreviate time zones within the Americas as follows:
 
-- Eastern time: ET
-- Central time: CT
-- Mountain time: MT
-- Pacific time: PT
+- Eastern daylight time: EDT
+- Central standard time: CST
+- Mountain daylight time: MDT
+- Pacific daylight time: PDT
 
-When referring to international time zones, spell them out: Nepal Standard Time, Australian Eastern Time. If a time zone does not have a set name, use its [Coordinated Universal Time (UTC) offset](https://en.wikipedia.org/wiki/List_of_UTC_time_offsets).
+Decades should be referred to in numerics to avoid confusion and improve readability:
 
-Abbreviate decades when referring to those within the past 100 years.
+- The 1900s
+- The 1800s
+- The 1980s
+- The 1990s
+- The 2000s
+- The 2010s
 
-- the 00s
-- the 90s
-
-When referring to decades more than 100 years ago, be more specific:
-
-- the 1900s
-- the 1890s
 
 ### Punctuation
 
@@ -281,6 +297,11 @@ If your subject’s gender is unknown or irrelevant, use “they,” “them,”
 When quoting someone in a blog post or other publication, use the present tense.
 
 - “Using Vendasta has helped our business grow,” says Jamie Smith.
+
+The only exception is press releases or self-published news articles, which follows American Press style (or the style a publication uses, such as Canadian Press). In these limited cases, we’re highlighting a point in time, so we would use past tense (as if we’re reporting that someone ‘said’ something in the past):
+
+“Using Vendasta has helped our business grow,” said Jamie Smith.
+
 
 #### Names and titles
 
