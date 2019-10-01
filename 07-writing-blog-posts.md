@@ -11,12 +11,17 @@ We have several Vendasta blogs, including ones written by our [design](http://cr
 
 We update the main Vendasta blog a couple times every week. We generally publish:
 
-* Feature, release, and integration announcements
+* Helpful strategies and explainers for potential Vendasta partners
 * Vendasta user case studies
 * Tips and tricks for local businesses
 * Examples of how we use Vendasta’s features in our own marketing
 
-We publish blog posts that explain the “why” behind the work we do at Vendasta. We want to show people that we're an industry leader with the best products, and we use our blog to tell the stories behind those products.
+We publish blog posts that explain the “why” behind the work we do at Vendasta. We want to show people that we’re an industry leader with the best products, and we use our blog to tell the stories behind those products.
+
+Cite Sources
+
+If you’re mentioning data or research in your blog post you should always explain where the numbers came from. 
+
 
 ## Guidelines
 
