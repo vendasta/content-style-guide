@@ -9,7 +9,7 @@ Consistency and clarity are key when talking about Vendasta in any format. Pleas
 
 Having consistent numbers about the size of our company is crucial for both legal reasons and building trust with our audiences.
 
-The most current company stats can be found in the [Vendasta KPIs](https://www.vendasta.com/kpi#), although the following numbers are the ones that are currently approved for external communications:
+The most current company stats can be found in the [Company at a Glance](https://datastudio.google.com/u/0/reporting/1xoCYhxuyETKpJuzEpGgIVyvzIcWedcdd/page/x68X), although the following numbers are the ones that are currently approved for external communications:
 
 * 19,000+ channel partners / resellers (partners on subsequent reference)
 * 35,000+ salespeople on the Vendasta platform
