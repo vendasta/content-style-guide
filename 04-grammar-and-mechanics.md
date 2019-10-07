@@ -56,7 +56,7 @@ When writing out an email address or website URL, use all lowercase.
 - freddie@vendasta.com
 - vendasta.com
 
-Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/16-word-list.md).
+Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/content-style-guide/16-word-list/).
 
 - website
 - internet
